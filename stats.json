@@ -29,17 +29,17 @@
       "path---index-25b425a3b907915823c7.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-8fe16f7a9b1fe9d077f0.js",
-      "path---hello-world-8fe16f7a9b1fe9d077f0.js.map"
+      "path---hello-world-d1fd08146b15fefc3289.js",
+      "path---hello-world-d1fd08146b15fefc3289.js.map"
     ],
     "commons": [
       "commons-4cd39fa88a59713b421c.js",
       "commons-4cd39fa88a59713b421c.js.map"
     ],
     "app": [
-      "app-21e649f1cee7920ce4f7.js",
+      "app-b804cbef581c6b6f2238.js",
       "build-js-styles.css",
-      "app-21e649f1cee7920ce4f7.js.map",
+      "app-b804cbef581c6b6f2238.js.map",
       "build-js-styles.css.map"
     ]
   }
